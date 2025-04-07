@@ -1,5 +1,3 @@
-import pandas as pd
-
 from operacoesbd import *
 from tabulate import *
 from pandas import *
